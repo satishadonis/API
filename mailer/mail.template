@@ -1,0 +1,5 @@
+From: ${from_address}
+To: ${to_addresses}
+Cc: ${cc_addresses}
+Subject: ${subject}
+${body}
